@@ -1,5 +1,5 @@
 # DRL_Gomoku
-Deep reinforcement learning algorithms for Gomoku
+Deep reinforcement learning algorithms for Gomoku.
 I think you must know alphaGo and alphaZero,it is implemented through deep reinforcement learning algorithm.
 We implement and train an agent to play Gomoku.
 I plan to use DQN,PG,A3C,DDPG to implement this agent,but I am too busy,so i just implement the version of DQN,in the days to come,
